@@ -39,6 +39,7 @@
         "1_FUNCTION.C": "cpp",
         "2_FUNCTION.C": "cpp",
         "8_STRUCTURE.C": "cpp",
-        "9_UNION.C": "cpp"
+        "9_UNION.C": "cpp",
+        "1_POINTER_ADDRESS.C": "cpp"
     }
 }

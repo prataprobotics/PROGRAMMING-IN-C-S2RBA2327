@@ -9,6 +9,7 @@ int main() {
     
     // Calculate the size of the array
     int size = sizeof(arr) / sizeof(arr[0]);
+    //int size = sizeof(arr);
    
     // Print the array elements using the pointer
     printf("Array elements:\n");

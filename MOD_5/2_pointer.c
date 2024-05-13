@@ -14,7 +14,7 @@ int main() {
     printf("Value of num: %d\n", num);
 
     // Display the address of the integer variable
-    printf("Address of num: %d\n", &num);
+    printf("Address of num: %p\n", &num);
 
     // Display the value of the pointer (the address of num)
     printf("Value of ptr (address of num): %p\n",ptr);

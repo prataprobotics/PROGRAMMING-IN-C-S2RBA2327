@@ -39,6 +39,7 @@ getch();
 //Program to append new data to a file and display on console
 #include<stdio.h>
 #include<conio.h>
+#include<string.h>
 void main()
 {
 FILE *f1;

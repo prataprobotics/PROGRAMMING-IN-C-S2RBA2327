@@ -41,6 +41,11 @@
         "8_STRUCTURE.C": "cpp",
         "9_UNION.C": "cpp",
         "1_POINTER_ADDRESS.C": "cpp",
-        "5_PASS_BY_REF.C": "cpp"
+        "5_PASS_BY_REF.C": "cpp",
+        "TEST.C": "cpp",
+        "EXP_14.C": "cpp",
+        "EXP_16.C": "cpp",
+        "EXP_17.C": "cpp",
+        "EXP_19.C": "cpp"
     }
 }

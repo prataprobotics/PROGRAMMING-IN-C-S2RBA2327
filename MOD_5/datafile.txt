@@ -1,0 +1,4 @@
+This content is written using fprintf x = aThis content is written using fputs 
+a
+x
+F
